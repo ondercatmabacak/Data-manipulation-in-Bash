@@ -1,0 +1,15 @@
+# 🛠️ Bash ETL Pipelines, Data Manipulation & Analysis
+
+This repository provides examples and explanations on how to write lightweight ETL pipelines, perform data manipulation, and conduct simple data analysis using **Bash scripting**. It also explores how to embed **SQL queries** within Bash and when to consider using **Python** instead.
+
+---
+
+## 📑 Table of Contents
+
+1. [What is an ETL Pipeline?](#what-is-an-etl-pipeline)
+2. [Basic Bash ETL Pipeline Example](#basic-bash-etl-pipeline-example)
+3. [Common Data Manipulation Techniques](#common-data-manipulation-techniques)
+4. [Data Analysis in Bash](#data-analysis-in-bash)
+5. [Embedding SQL in Bash Scripts](#embedding-sql-in-bash-scripts)
+6. [Python vs Bash for ETL](#python-vs-bash-for-etl)
+7. [Conclusion](#conclusion)
